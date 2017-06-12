@@ -1,0 +1,25 @@
+{
+  "name": "xhr-js",
+  "version": "1.0.0",
+  "description": "Probando XMLHttpRequest con JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MontserratLili/Pokedex.git"
+  },
+  "keywords": [
+    "js",
+    "xhr",
+    "json"
+  ],
+  "author": "Montserrat Lili <lauraliligm@laboratoria.la>",
+  "license": "ISC",
+  "bugs":
+  "homepage":
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

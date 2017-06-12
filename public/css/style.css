@@ -1,0 +1,30 @@
+body{
+    font-family: 'Patrick Hand SC', cursive;
+}
+.botonPokemon{
+    list-style: none;
+    text-transform: uppercase;
+}
+.barraNav{
+    color: aliceblue;
+    font-size: 20px;
+}
+.logo{
+    width: 20%;
+    height: 40%;
+}
+.imageneesPokemones{
+    width: 40px;
+    height: 40px;
+}
+.nombres{
+    background-color: #337ab7;
+    color: aliceblue;
+    border-radius: 5px;
+}
+.ficha{
+    border: 1px solid blue;
+}
+.contenedorModal{
+    padding: 40px;
+}
